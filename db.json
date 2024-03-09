@@ -10,14 +10,14 @@
     }
   },
   "register": {
-    "heading": "Opvoeder-Kind Interactie",
+    "heading": "Взаємодія батьків і дітей",
     "title": "Account maken",
     "form": {
-      "button": "Registreer",
+      "button": "Зареєструватись",
       "professionalAssociationRegistrationNumber.placeholder": "Registratienummer",
       "professionalAssociation.placeholder": "Werkgebied",
-      "language": "Taal",
-      "language.placeholder": "Selectteer enn taal",
+      "language": "Мова",
+      "language.placeholder": "Виберіть мову",
       "email.placeholder": "Uw email",
       "newpassword.label": "Wachtwoord",
       "newpassword.placeholder": "Wachtwoord",
@@ -61,7 +61,6 @@
     }
   },
   "settings": {
-    "settings":{
     "heading": "Взаимодействие родителей и детей",
     "title": "Налаштування системи",
     "form": {
@@ -102,5 +101,5 @@
         }
       }
     }
-  }}
+  }
 }
